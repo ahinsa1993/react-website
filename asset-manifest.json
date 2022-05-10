@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.23dda091.css",
+    "main.js": "/react-website/static/js/main.66a8688b.js",
+    "static/media/pexels-makroni pasta.jpg": "/react-website/static/media/pexels-makroni pasta.1281026f0491202232f7.jpg",
+    "static/media/pexels-choco ice cream.jpg": "/react-website/static/media/pexels-choco ice cream.899c26dcd8bdaf827b62.jpg",
+    "static/media/ice cream1.jpg": "/react-website/static/media/ice cream1.7f9264545c62b12e92ec.jpg",
+    "static/media/pexels-dalgona cofee.jpg": "/react-website/static/media/pexels-dalgona cofee.0995cbb621f4c5d050a2.jpg",
+    "static/media/cup cake.jpg": "/react-website/static/media/cup cake.868105a34570b8c4ed37.jpg",
+    "static/media/jain logo.jpg": "/react-website/static/media/jain logo.5834e4a2f90ad769f5db.jpg",
+    "static/media/restaurant-mockup1.png": "/react-website/static/media/restaurant-mockup1.d37d603198bc521118f4.png",
+    "index.html": "/react-website/index.html",
+    "main.23dda091.css.map": "/react-website/static/css/main.23dda091.css.map",
+    "main.66a8688b.js.map": "/react-website/static/js/main.66a8688b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23dda091.css",
+    "static/js/main.66a8688b.js"
+  ]
+}
